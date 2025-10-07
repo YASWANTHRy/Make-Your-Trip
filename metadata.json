@@ -1,0 +1,5 @@
+{
+  "name": "Make My Trip Clone",
+  "description": "A visually appealing clone of the MakeMyTrip flight search interface. It allows users to search for one-way flights and view a list of mock flight results. The application is fully responsive and designed for a great user experience on both desktop and mobile devices.",
+  "requestFramePermissions": []
+}
